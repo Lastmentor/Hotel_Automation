@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HoteL I.E.U</string>
+    <string name="facebook_app_id">332214277276362</string>
+    <string name="client_id">412021824346-293cpl1iooetpuqfg4cujs3rlq5972ga.apps.googleusercontent.com</string>
+    <string name="personnel"><u>Click For Personnel Entrance</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_deneme_hotel_info">DenemeHotelInfo</string>
+    <string name="Hotel_text">
+        "This four-star hotel is also located right by the waterfront, "
+        "and has great views of the Aegean from almost all its rooms. "
+        "Kulpark Otel’s standard rooms and suites are all equipped with modern amenities "
+        "as well as floor-to-ceiling windows. The Bonjour Restaurant has quite a history, "
+        "having been established in the 1960s."
+    </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "412021824346",
+    "firebase_url": "https://hotelieu-5784e.firebaseio.com",
+    "project_id": "hotelieu-5784e",
+    "storage_bucket": "hotelieu-5784e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412021824346:android:c7bcb1058f2e65a5",
+        "android_client_info": {
+          "package_name": "com.example.rza.socialmedialogins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412021824346-h3l9794trve21fvm4el49er5q17i4nsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rza.socialmedialogins",
+            "certificate_hash": "f196630044c64a289d4f7aa62302418f8a4292f3"
+          }
+        },
+        {
+          "client_id": "412021824346-ltpe8g2icsnb6fkj2rfsfmot6ktfmman.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rza.socialmedialogins",
+            "certificate_hash": "64e40ee5be0fd9f805ac57511c9a0b6006b72f61"
+          }
+        },
+        {
+          "client_id": "412021824346-293cpl1iooetpuqfg4cujs3rlq5972ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElIUxZEo3WXQKXwy5dty3oT9p9y7fQUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412021824346-293cpl1iooetpuqfg4cujs3rlq5972ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
